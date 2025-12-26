@@ -82,7 +82,7 @@ This project follows a **clean UML-style structure**:
 * `Grade`
 * `Evaluation` (Interface)
 
-This makes it **ideal for Software Engineering & OOP exams**.
+
 
 ---
 
@@ -120,21 +120,11 @@ This makes it **ideal for Software Engineering & OOP exams**.
 
 ---
 
-## 🎯 Learning Outcomes
 
-By studying this project, you will understand:
-
-* How to convert **UML diagrams into Java code**
-* How real-world systems are modeled using OOP
-* How GUI, logic, and data work together
-* How file handling is used for persistent data
-
----
 
 ## 🧑‍💻 Author
 
 **Touqeer Ali**
-📚 Java & Software Engineering Student
 🌱 Learning OOP, File Handling, and GUI Development
 
 ---
